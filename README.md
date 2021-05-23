@@ -19,6 +19,8 @@ Please wait sooner.
 wait.
 
 ## Acknowledgement
-We thank IDD-lite dataset for the test images.
+We thank IDD-lite dataset for the test images. [hhttp://idd.insaan.iiit.ac.in/](http://idd.insaan.iiit.ac.in/)
+
+
 We also thank Prof. Hongdong Li for ENGN 8535 and all course tutors.
 
