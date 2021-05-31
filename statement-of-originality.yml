@@ -6,13 +6,19 @@ declaration: >-
 # describe how they contributes your work in a clear and specific manner
 # (or remove it altogether if you haven't used any external help)
 references:
-  - comment: I refer some process of the spectral clustering here
+  - comment: Xianghan refer some process of the spectral clustering in sklearn
     url: "https://scikit-learn.org/stable/auto_examples/cluster/plot_segmentation_toy.html#sphx-glr-auto-examples-cluster-plot-segmentation-toy-py"
     licence: 
-  - comment: I refer some process of the spectral clustering here
+  - comment: Xianghan refer part of similarity matrix computation of the spectral clustering here.
     url: "https://github.com/David-Wobrock/image-processing-graph-laplacian"
     licence: # leave blank if you're not sure
-  - comment: Using IDD-lite dataset
+  - comment: Xianghan refer part of K-means algorithm from Clab3.
+    url: "https://gitlab.cecs.anu.edu.au/engn8535/2021-s1-lab-3"
+    licence: # leave blank if you're not sure    
+  - comment: All of rest spectral clustering algorithm functions are written by Xianghan myself. 
+    url: 
+    licence: # leave blank if you're not sure  
+  - comment: We use IDD-lite dataset.
     url: "https://idd.insaan.iiit.ac.in/"
     licence: MIT
 
