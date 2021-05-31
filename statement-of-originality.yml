@@ -1,0 +1,27 @@
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# describe how they contributes your work in a clear and specific manner
+# (or remove it altogether if you haven't used any external help)
+references:
+  - comment: I refer some process of the spectral clustering here
+    url: "https://scikit-learn.org/stable/auto_examples/cluster/plot_segmentation_toy.html#sphx-glr-auto-examples-cluster-plot-segmentation-toy-py"
+    licence: 
+  - comment: I refer some process of the spectral clustering here
+    url: "https://github.com/David-Wobrock/image-processing-graph-laplacian"
+    licence: # leave blank if you're not sure
+  - comment: Using IDD-lite dataset
+    url: "https://idd.insaan.iiit.ac.in/"
+    licence: MIT
+
+# sign *your* name and uid here
+name: Xianghan Kong
+uid: u7201650
+
+name: Hao Wang
+uid: u7195922
+
+name: Weishen Li
+uid: u7171628

@@ -13,13 +13,18 @@ Please run the 'main.py' file.
 numpy, opencv, matplotlib, time, random
 
 ### Usage
+#### 2.1 Spectral clustering
+Please wait sooner.
+#### 2.2 Spectral clustering
+Please wait sooner.
+#### 2.3 Spectral clustering
 Please wait sooner.
 
 ## 3. Contribution
 wait.
 
 ## Acknowledgement
-We thank IDD-lite dataset for the test images. [hhttp://idd.insaan.iiit.ac.in/](http://idd.insaan.iiit.ac.in/)
+We thank IDD-lite dataset for the test images. [http://idd.insaan.iiit.ac.in/](http://idd.insaan.iiit.ac.in/)
 
 
 We also thank Prof. Hongdong Li for ENGN 8535 and all course tutors.
