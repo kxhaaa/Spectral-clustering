@@ -15,6 +15,13 @@ references:
   - comment: Xianghan refer part of K-means algorithm from Clab3.
     url: "https://gitlab.cecs.anu.edu.au/engn8535/2021-s1-lab-3"
     licence: # leave blank if you're not sure    
+  - comment: Hao refers the source paper of the Watershed algorithm.
+    refer: Pierre Soille, Luc M. Vincent, "Determining watersheds in digital pictures via flooding simulations", Proc. SPIE 1360, Visual Communications and Image Processing '90: Fifth in a Series, (1 September 1990); doi: 10.1117/12.24211
+    url: http://dx.doi.org/10.1117/12.24211
+    licence:
+  - comment: Hao refers parts of Watershed algorithm in github.
+    url: "https://github.com/mzur/watershed"
+    licence: # leave blank if you're not sure 
   - comment: All of rest spectral clustering algorithm functions are written by Xianghan myself. 
     url: 
     licence: # leave blank if you're not sure  
