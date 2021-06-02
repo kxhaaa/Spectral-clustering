@@ -4,7 +4,8 @@
 ## 1. About The Project
 
 This project is our ENGN 8535 research project based on spectral clustering for color image segmentation.
-Besides, we have also implement some other clustering methods.
+Besides, we have also implement Kernel K-means and Watershed algorithms. And a sample result is shown as below.  
+![image](https://github.com/kxhaaa/Spectral-clustering/blob/main/a%20sample%20of%20the%20result.png)
 
 ## 2. Getting Started
 Please run the 'main.py' file.
