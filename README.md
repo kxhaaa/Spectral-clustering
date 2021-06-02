@@ -21,7 +21,9 @@ Please wait sooner.
 Please wait sooner.
 
 ## 3. Contribution
-wait.
+Xianghan Kong - Spectral clusering.  
+Hao Wang - Watershed.  
+Wenshen Li - Kernel K-means.  
 
 ## Acknowledgement
 We thank IDD-lite dataset for the test images. [http://idd.insaan.iiit.ac.in/](http://idd.insaan.iiit.ac.in/)
