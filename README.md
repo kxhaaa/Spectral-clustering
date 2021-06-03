@@ -8,17 +8,17 @@ Besides, we have also implement Kernel K-means and Watershed algorithms. And a s
 ![image](https://github.com/kxhaaa/Spectral-clustering/blob/main/a%20sample%20of%20the%20result.png)
 
 ## 2. Getting Started
-Please run the 'main.py' file.
 
 ### Pakages
 numpy, opencv, matplotlib, time, random
 
 ### Usage
 #### 2.1 Spectral clustering
+        1. Import `function.py` file.
+        2. Run `main_classic.py` for classic spectral clustering and `main_spectral.py` for Nystrom approximation.
+#### 2.2 Watershed
 Please wait sooner.
-#### 2.2 Spectral clustering
-Please wait sooner.
-#### 2.3 Spectral clustering
+#### 2.3 Kernel K-means
 Please wait sooner.
 
 ## 3. Contribution
