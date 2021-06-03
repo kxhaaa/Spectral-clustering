@@ -59,7 +59,7 @@ def watershed(img):
    sorted_image = reshaped_image[indices]
    sorted_pixels = pixels[indices]
 
-   # self.levels evenly spaced steps from minimum to maximum.
+   # levels evenly spaced steps from minimum to maximum.
    levels = np.linspace(sorted_image[0], sorted_image[-1], 256)
    level_indices = []
    current_level = 0
