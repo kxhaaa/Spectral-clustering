@@ -14,7 +14,7 @@ numpy, opencv, sklearn, matplotlib, time, random, collections, argparse
 
 ### Usage
 #### 2.1 Spectral clustering
-Run `main_classic.py` for classic spectral clustering and `main_spectral.py` for Nystrom approximation.
+Run `python main_classic.py` for classic spectral clustering and `main_spectral.py` for Nystrom approximation.
 #### 2.2 Watershed
 Run `python watershed.py --img_path your_image_path` for applying the watershed segmentation on the given image.
 #### 2.3 Kernel K-means
