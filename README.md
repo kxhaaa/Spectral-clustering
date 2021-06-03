@@ -10,13 +10,13 @@ Besides, we have also implement Kernel K-means and Watershed algorithms. And a s
 ## 2. Getting Started
 
 ### Pakages
-numpy, opencv, matplotlib, time, random
+numpy, opencv, matplotlib, time, random, collections
 
 ### Usage
 #### 2.1 Spectral clustering
 Run `main_classic.py` for classic spectral clustering and `main_spectral.py` for Nystrom approximation.
 #### 2.2 Watershed
-Please wait sooner.
+Run `watershed.py` for applying the watershed segmentation on the given image.
 #### 2.3 Kernel K-means
 Please wait sooner.
 
