@@ -10,7 +10,7 @@ Besides, we have also implement Kernel K-means and Watershed algorithms. And a s
 ## 2. Getting Started
 
 ### Pakages
-numpy, opencv, sklearn, matplotlib, time, random, collections
+numpy, opencv, sklearn, matplotlib, time, random, collections, argparse
 
 ### Usage
 #### 2.1 Spectral clustering
