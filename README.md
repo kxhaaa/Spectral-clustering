@@ -14,8 +14,7 @@ numpy, opencv, matplotlib, time, random
 
 ### Usage
 #### 2.1 Spectral clustering
-        1. Import `function.py` file.
-        2. Run `main_classic.py` for classic spectral clustering and `main_spectral.py` for Nystrom approximation.
+Run `main_classic.py` for classic spectral clustering and `main_spectral.py` for Nystrom approximation.
 #### 2.2 Watershed
 Please wait sooner.
 #### 2.3 Kernel K-means
