@@ -18,7 +18,7 @@ Run `python main_classic.py` for classic spectral clustering and `main_spectral.
 #### 2.2 Watershed
 Run `python watershed.py --img_path your_image_path` for applying the watershed segmentation on the given image.
 #### 2.3 Kernel K-means
-Please wait sooner.
+Put your testing images into the directory `images_for_test`, then run `python kernel_kmeans.py` for applying the kernel k-means clustering for image segmentation.
 
 ## 3. Contribution
 Xianghan Kong - Spectral clusering.  
