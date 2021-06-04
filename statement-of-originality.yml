@@ -28,6 +28,12 @@ references:
   - comment: We use IDD-lite dataset.
     url: "https://idd.insaan.iiit.ac.in/"
     licence: MIT
+  - comment: Weishen refers parts of K-means algorithm from Clab3.
+    url: "https://gitlab.cecs.anu.edu.au/engn8535/2021-s1-lab-3"
+    licence: # leave blank if you're not sure
+  - comment: Weishen refers parts of ideas here.
+    url: "https://github.com/ardianumam/Machine-Learning-From-The-Scratch/blob/master/kernel_kMeansClustering.py"
+    licence: # leave blank if you're not sure
 
 # sign *your* name and uid here
 name: Xianghan Kong
