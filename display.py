@@ -40,7 +40,7 @@ def display_clusters(img, which_component, k=-1):
     return np.uint8(result)
 
 #usage
-result1 = display_clusters(img, which_component)
+#result1 = display_clusters(img, which_component)
 
 
 
